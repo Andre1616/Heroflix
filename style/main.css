@@ -95,3 +95,27 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
+
+.box-logo{
+    height: 15%;
+    width: 15%;
+    display: block;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+    
+}
+
+.texto {
+    position: absolute;
+    bottom: 0px;
+      
+    height: 250px;
+    font-size: 250px;
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.6);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgba(255, 255, 255, 0.6);
+}
